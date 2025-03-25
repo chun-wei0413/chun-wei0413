@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22518
-Fork on GitHub
-7405
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi there! 👋 I'm Frank, a beginner Gopher and a Java enthusiast.</h1>
 <h3 align="center">A passionate Backend developer from Taiwan</h3>
 
