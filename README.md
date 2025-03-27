@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! 👋 I'm Frank, a beginner Gopher and a Java enthusiast.</h1>
+<h1 align="center">Hi there! 👋
 <h3 align="center">A passionate Backend developer from Taiwan</h3>
 
-- 📫 How to reach me **a910413frank@gmail.com**
+- 📄 My name is Frank, and I am a passionate developer. Currently, I am a rookie Gopher, deeply enthusiastic about exploring software design, software architecture, and agile development. Feel free to contact me or check out my repo for more details if you're interested!
 
-- 📄 Know about my experiences [I have experience in Java and am currently diving into the world of Go.](I have experience in Java and am currently diving into the world of Go.)
+- 📫 How to reach me **a910413frank@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
