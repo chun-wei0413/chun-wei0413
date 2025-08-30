@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Frank+%F0%9F%91%8B;Software+Engineering+Graduate+Student+%F0%9F%87%B9%F0%9F%87%BC;Java+%7C+SpringBoot+%7C+Go+%7C+Backend+%E2%98%81%EF%B8%8F;Context+Engineering+%26+Vibe+Coding+Researcher+%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Frank+%F0%9F%91%8B;Software+Engineering+Graduate+Student+%F0%9F%87%B9%F0%9F%87%BC;Java+%7C+SpringBoot+%7C+Microservices+%7C+Go+%E2%9A%A1;DDD+%26+Clean+Architecture+Specialist+%F0%9F%8F%97%EF%B8%8F;AI+Coding+%26+Context+Engineering+Researcher+%F0%9F%A4%96%F0%9F%94%AC" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
 </div>
 
 ---
@@ -14,17 +16,21 @@
 
 🎓 **Current Status:** Software Engineering graduate student specializing in research and development
 
-🔬 **Research Focus:** Exploring **Context Engineering** and **Vibe Coding** methodologies
+🏗️ **Architecture Focus:** **Domain Driven Design (DDD)** and **Clean Architecture** specialist
 
-🔭 **Technical Focus:** Building robust backend systems with **Java SpringBoot** and exploring **Go** development
+📋 **Application Domain:** Applying architectural patterns to **Kanban** and **Scrum** project management systems
 
-🌱 **Learning:** Advanced software engineering practices, context-aware systems, and developer experience optimization
+🤖 **Current Research:** **AI Coding** and **Context Engineering** applications in software development
 
-💡 **Passionate About:** Software engineering research, context-driven development, and innovative coding paradigms
+🔭 **Technical Expertise:** Building scalable **Microservices** with **Java SpringBoot** and exploring **Go** development
 
-🎯 **Goal:** Contributing to the advancement of software engineering practices and developer productivity
+🌱 **Learning:** Advanced **Go** programming, AI-driven development tools, and context-aware coding environments
 
-📝 **Philosophy:** Research-driven development, clean code, and continuous learning
+💡 **Passionate About:** Clean architecture principles, domain modeling, and AI-enhanced developer productivity
+
+🎯 **Goal:** Revolutionizing software development through architectural excellence and AI integration
+
+📝 **Philosophy:** Domain-driven design, clean code architecture, and AI-augmented development
 
 🌍 **Location:** Taiwan 🇹🇼
 
@@ -33,43 +39,55 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chun-wei0413&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chun-wei0413&layout=compact&theme=tokyonight"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chun-wei0413&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chun-wei0413&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=f97316"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chun-wei0413&layout=compact&theme=radical&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chun-wei0413&theme=tokyo-night" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chun-wei0413&theme=radical&background=0d1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chun-wei0413&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=6366f1&point=f97316&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
+### 🚀 Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,javascript,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,javascript,python" />
 </p>
 
-### Backend & Infrastructure
+### 🏗️ Architecture & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-FF6B6B?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4ECDC4?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-45B7D1?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS-96CEB4?style=for-the-badge&logo=&logoColor=white"/>
+</p>
+
+### ☁️ Backend & Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,docker,kubernetes,nginx" />
 </p>
 
-### Databases & Message Queues
+### 💾 Databases & Message Queues
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
 </p>
 
-### DevOps & Cloud
+### 🛠️ DevOps & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,grafana,prometheus" />
 </p>
 
-### Tools & Others
+### 🔧 Development Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,idea" />
 </p>
@@ -79,13 +97,20 @@
 ## 🔬 Research & Development Focus
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
+
+<div align="center">
 
 | Research Area | Description | Keywords | Status |
 |---------------|-------------|----------|--------|
-| 🧠 **Context Engineering** | Investigating context-aware software development practices | Context-driven design, Adaptive systems | 🔍 Active Research |
-| 🎨 **Vibe Coding** | Exploring developer experience and coding environment optimization | Developer productivity, Coding flow | 📚 Current Study |
-| 🌱 **SpringBoot Mastery** | Advanced SpringBoot development and best practices | Java, SpringBoot, JPA, Microservices | 💪 Proficient |
-| 🚀 **Go Development** | Exploring Go for high-performance backend services | Go, Gin, GORM, Concurrency | 🔍 Learning |
+| 🏗️ **Domain Driven Design** | Implementing DDD principles in complex software systems | Strategic Design, Tactical Patterns, Bounded Context | 💪 **Expert** |
+| 🧹 **Clean Architecture** | Building maintainable systems with clean architectural patterns | Hexagonal Architecture, Dependency Inversion, SOLID | 💪 **Expert** |
+| 📋 **Agile System Architecture** | Applying DDD & Clean Architecture to Kanban/Scrum systems | Project Management, Process Modeling, Domain Events | 🔍 **Active Research** |
+| 🤖 **AI Coding Integration** | Leveraging AI tools for enhanced software development | GPT-assisted coding, Automated refactoring, Code generation | 🔍 **Active Research** |
+| 🧠 **Context Engineering** | Context-aware development environments and AI-driven coding | Context switching, Adaptive tooling, Intelligent assistance | 📚 **Current Study** |
+| ☕ **Java Microservices** | Enterprise-grade SpringBoot microservice architecture | SpringBoot, JPA, Event Sourcing, CQRS | 💪 **Expert** |
+| 🚀 **Go Development** | High-performance backend services with Go | Concurrency, Performance optimization, Clean code | 🌱 **Learning** |
 
 </div>
 
@@ -94,12 +119,18 @@
 ## 📈 My Journey
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+</div>
 
-**🎓 Academic Focus:** Software Engineering Research  
-**🏆 Most Experienced:** Java & SpringBoot Framework  
-**🔬 Current Research:** Context Engineering & Vibe Coding  
-**🌱 Technical Exploration:** Go Language & Backend Architecture  
-**🎯 Future Goals:** Advancing Software Engineering Practices
+<div align="center">
+
+**🎓 Academic Focus:** Software Architecture & Engineering Research  
+**🏆 Core Expertise:** Domain Driven Design & Clean Architecture  
+**🔧 Technical Mastery:** Java SpringBoot & Microservices Architecture  
+**📋 Application Domain:** Kanban & Scrum System Development  
+**🤖 Current Research:** AI Coding & Context Engineering Integration  
+**🌱 Technical Exploration:** Go Language & Advanced Backend Patterns  
+**🎯 Future Vision:** AI-Enhanced Architectural Excellence
 
 </div>
 
@@ -108,19 +139,34 @@
 ## 🌐 Connect With Me
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200"/>
+</div>
+
+<div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a910413frank@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-li-a9569b206/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chun-wei0413)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:a910413frank@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/frank-li-a9569b206/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/chun-wei0413)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chun-wei0413&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chun-wei0413&label=Profile%20Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   
-  ### 💫 Thanks for visiting! Let's build something amazing together! 
+  ### 💫 Thanks for visiting! Let's architect something amazing together! 
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"> 
+  
+  <em><b>🏗️ Passionate about clean architecture and domain-driven design</b><br/>
+  🤖 <b>Always exploring the intersection of AI and software engineering</b><br/>
+  💬 <b>Let's discuss DDD, Clean Architecture, or AI Coding!</b> 🚀</em>
+  
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
