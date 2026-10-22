@@ -92,8 +92,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chun-wei0413&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=d0ffd8" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chun-wei0413&background=000000&ring=00ff41&fire=ff0080&currStreakLabel=00ff41&currStreakNum=d0ffd8&sideNums=d0ffd8&sideLabels=00ff41&dates=6aff8f&stroke=00ff41&hide_border=true" />
-  <br/>
-  <img src="https://ghchart.rshah.org/00ff41/chun-wei0413" width="100%" alt="Contribution calendar"/>
 </div>
 
 <div align="center">
