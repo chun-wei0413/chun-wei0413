@@ -1,179 +1,115 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+there!+I'm+Frank+%F0%9F%91%8B;Software+Engineering+Graduate+Student+%F0%9F%87%B9%F0%9F%87%BC;Java+%7C+SpringBoot+%7C+Microservices+%7C+Go+%E2%9A%A1;DDD+%26+Clean+Architecture+Specialist+%F0%9F%8F%97%EF%B8%8F;AI+Coding+with+Claude+Skills+%F0%9F%A4%96%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="assets/header.svg" width="100%" alt="Chun-Wei Li (Frank) - AI Application &amp; Software Engineer"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
-</div>
-
----
-
-### 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-🎓 **Current Status:** Software Engineering graduate student specializing in research and development
-
-🏗️ **Architecture Focus:** **Domain Driven Design (DDD)** and **Clean Architecture** specialist
-
-📋 **Application Domain:** Applying architectural patterns to **Kanban** and **Scrum** project management systems
-
-🤖 **Current Research:** **AI Coding with Claude Skills** - Exploring and implementing AI-driven development workflows
-
-🔭 **Technical Expertise:** Building scalable **Microservices** with **Java SpringBoot** and exploring **Go** development
-
-🌱 **Learning:** Advanced **Go** programming and **Claude Skills**
-
-💡 **Passionate About:** Clean architecture principles, domain modeling, and AI-enhanced developer productivity
-
-🎯 **Goal:** Creating true value by collaborating with AI to build highly maintainable systems
-
-📝 **Philosophy:** Domain-driven design, clean code architecture, and AI-powered development with Claude Skills
-
-🌍 **Location:** Taiwan 🇹🇼
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
-</div>
-
-### 📈 Core Metrics
-<div align="center">
-  <table>
-    <tr>
-      <td><img height="200em" src="https://github-readme-stats.vercel.app/api?username=chun-wei0413&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=f97316&border_color=6366f1&border_radius=15"/></td>
-      <td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chun-wei0413&layout=compact&theme=radical&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&border_color=6366f1&border_radius=15&card_width=320"/></td>
-    </tr>
-  </table>
-</div>
-
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chun-wei0413&theme=tokyonight&background=0d1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak" />
-</div>
-
-### 📅 Activity Overview
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chun-wei0413&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=6366f1&point=f97316&area=true&hide_border=true&radius=16" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🚀 Core Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,javascript,python" />
-</p>
-
-### 🏗️ Architecture & Design
-<p align="center">
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-FF6B6B?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-4ECDC4?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Event%20Sourcing-45B7D1?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CQRS-96CEB4?style=for-the-badge&logo=&logoColor=white"/>
-</p>
-
-### ☁️ Backend & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,docker,kubernetes,nginx" />
-</p>
-
-### 💾 Databases & Message Queues
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
-</p>
-
-### 🛠️ DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,grafana,prometheus" />
-</p>
-
-### 🔧 Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,idea" />
-</p>
-
----
-
-## 🔬 Research & Development Focus
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
+<br/>
 
 <div align="center">
 
-| Research Area | Description | Keywords | Status |
-|---------------|-------------|----------|--------|
-| 🏗️ **Domain Driven Design** | Implementing DDD principles in complex software systems | Strategic Design, Tactical Patterns, Bounded Context | 💪 **Expert** |
-| 🧹 **Clean Architecture** | Building maintainable systems with clean architectural patterns | Hexagonal Architecture, Dependency Inversion, SOLID | 💪 **Expert** |
-| 📋 **Agile System Architecture** | Applying DDD & Clean Architecture to Kanban/Scrum systems | Project Management, Process Modeling, Domain Events | 🔍 **Active Research** |
-| 🤖 **Claude Skills & AI Coding** | Advanced AI coding leveraging Claude Skills for automated development | Claude Skills, AI Coding, Prompt Engineering | 🔍 **Active Research** |
-| 🧠 **Context Engineering** | Context-aware development environments and AI-driven coding | Context switching, Adaptive tooling, Intelligent assistance | 📚 **Current Study** |
-| ☕ **Java Microservices** | Enterprise-grade SpringBoot microservice architecture | SpringBoot, JPA, Event Sourcing, CQRS | 💪 **Expert** |
-| 🚀 **Go Development** | High-performance backend services with Go | Concurrency, Performance optimization, Clean code | 🌱 **Learning** |
+![Taiwan](https://img.shields.io/badge/Taiwan-000000?style=for-the-badge&color=00ff41&labelColor=000000&label=%F0%9F%87%B9%F0%9F%87%BC)
+![NTUT](https://img.shields.io/badge/M.S.-NTUT_CSIE-000000?style=for-the-badge&color=00ff41&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-Spring_Boot-000000?style=for-the-badge&color=ffe600&labelColor=000000)
+![TS](https://img.shields.io/badge/TypeScript-React-000000?style=for-the-badge&color=00d9ff&labelColor=000000)
+![AI](https://img.shields.io/badge/LLM-RAG_%C2%B7_MCP-000000?style=for-the-badge&color=ff0080&labelColor=000000)
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 📈 My Journey
+## 🎓 Education
+
+- **National Taipei University of Technology**: M.S. in Computer Science and Information Engineering, 2026 · GPA: 4.0/4.0
+- **Fu Jen Catholic University**: B.S. in Computer Science and Information Engineering, 2024 · GPA: 3.92/4.3
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🔬 Research & Publications
+
+### 📜 Master's Thesis: AI-Assisted Software Engineering
+**[A Pattern Language Prompt-Based Approach to AI Code Generation for Software Architecture: A Case Study of DCI Architecture](https://hdl.handle.net/11296/rwta59)**
+
+- Investigated Pattern Language-based prompting to constrain AI-generated code to DCI architectural styles built upon DDD, Clean Architecture, and CQRS.
+- Developed AI-assisted code generation and refactoring mechanisms with JavaParser-based AST verification.
+
+### 📄 [TCSE 2024 Publication: First Author](https://github.com/chun-wei0413/crms-edge-home) · Mar 2024 - Jul 2024
+- Explored the feasibility of using idle household IoT devices as edge-computing resources.
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🚀 Side Projects
+
+### 🔎 [WTM: Meme Semantic Retrieval System](https://github.com/chun-wei0413/WTM) · Oct 2026 - Present
+**Java / Spring Boot / React / TypeScript / PostgreSQL / Ollama / RAG / Kubernetes**
+
+- Combined vector search and BM25 keyword search with weighted ranking for natural-language meme retrieval.
+- Integrated vision-language models and LLM-based explanations; containerized the system with Docker and automated CI and image publishing using GitHub Actions.
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 💼 Project Experience
+
+### 📋 ezKanban: Microservices-Based Collaboration System · Jul 2024 - Aug 2026
+**Java / Spring Boot / DDD / Clean Architecture / CQRS / Event Sourcing / Kafka**
+
+- Developed a real-time collaborative kanban system to digitize and optimize agile project management workflows.
+- Practiced modern software paradigms (combining microservices, event-driven architecture, TDD, and Mob Programming) to ensure high software quality and maintainability.
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🛠️ Technical Skills
+
+| | |
+|:--|:--|
+| **Programming Languages** | Java, C++, Python, JavaScript, TypeScript |
+| **Backend & Frontend Development** | Spring Boot, React |
+| **Software Architecture & Patterns** | Domain-Driven Design (DDD), Clean Architecture, CQRS, Event Sourcing |
+| **Software Design & Practices** | Design Patterns (GoF), Test-Driven Development (TDD), Mob Programming |
+| **Data & Messaging** | PostgreSQL, Kafka, EventStore, RustFS |
+| **AI & LLM** | Large Language Models (Ollama), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP) |
+| **AI Tooling & Agents** | OpenAI Codex, Claude Code |
+| **DevOps & Observability** | Docker, Kubernetes, GitHub Actions, Nginx, Prometheus, Grafana |
+| **Software Testing & Automation** | JUnit, Robot Framework, Appium |
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
+
+![Stack](https://skillicons.dev/icons?i=java,cpp,python,ts,spring,react,postgres,kafka,docker,kubernetes,githubactions&theme=dark)
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🏅 Additional
+
+- **Certifications:** Andes Certified Engineer (ACE), Advanced Level, RISC-V; iPAS Information Security Engineer, Associate Level
+- **Languages:** Mandarin (Native), English (TOEIC L&R 830)
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chun-wei0413&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=d0ffd8&icon_color=ff0080&text_bold=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chun-wei0413&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=d0ffd8" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chun-wei0413&background=000000&ring=00ff41&fire=ff0080&currStreakLabel=00ff41&currStreakNum=d0ffd8&sideNums=d0ffd8&sideLabels=00ff41&dates=6aff8f&stroke=00ff41&hide_border=true" />
+  <br/>
+  <img src="https://ghchart.rshah.org/00ff41/chun-wei0413" width="100%" alt="Contribution calendar"/>
 </div>
 
 <div align="center">
-
-**🎓 Academic Focus:** Software Architecture & Engineering Research  
-**🏆 Core Expertise:** Domain Driven Design & Clean Architecture  
-**🔧 Technical Mastery:** Java SpringBoot & Microservices Architecture  
-**📋 Application Domain:** Kanban & Scrum System Development  
-**🤖 Current Research:** AI Coding with Claude Skills  
-**🌱 Technical Exploration:** Go Language & Advanced Backend Patterns  
-**🎯 Future Vision:** AI-Enhanced Architectural Excellence
-
+  <img src="https://raw.githubusercontent.com/chun-wei0413/chun-wei0413/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200"/>
-</div>
+## 📬 Contact
 
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:a910413frank@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/frank-li-a9569b206/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/chun-wei0413)
 
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:a910413frank@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNi42IiBjeT0iNi44IiByPSIxLjkiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSI1IiB5PSI5LjYiIHdpZHRoPSIzLjIiIGhlaWdodD0iOS40IiBmaWxsPSIjZmZmIi8%2BPHBhdGggZD0iTTEwLjMgOS42aDN2MS4zYy41LS45IDEuNy0xLjUgMy4xLTEuNSAyLjggMCAzLjQgMS44IDMuNCA0LjJWMTloLTMuMnYtNC45YzAtMS4yIDAtMi4zLTEuNS0yLjNzLTEuNiAxLjEtMS42IDIuMlYxOWgtMy4yeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D&color=0A66C2)](https://www.linkedin.com/in/frank-li-a9569b206/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=24292f)](https://github.com/chun-wei0413)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%" alt="footer"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chun-wei0413&label=Profile%20Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  
-  ### 💫 Thanks for visiting! Let's architect something amazing together! 
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"> 
-  
-  <em><b>🏗️ Passionate about clean architecture and domain-driven design</b><br/>
-  🤖 <b>Currently researching AI Coding with Claude Skills</b><br/>
-  💬 <b>Let's discuss DDD, Clean Architecture, Event Sourcing, or AI Coding!</b> 🚀</em>
-  
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
